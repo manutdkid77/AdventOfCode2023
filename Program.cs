@@ -1,4 +1,4 @@
-﻿using adventofcode_2023.Days.Day1;
+﻿using adventofcode_2023.Days.Day2;
 
 namespace adventofcode_2023;
 
@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //new Day1().SolvePartOne();
-        new Day1().SolvePartTwo();
+        //new Day2().SolvePartOne();
+        new Day2().SolvePartTwo();
     }
 }
