@@ -1,6 +1,6 @@
 using adventofcode_2023.Services;
 
-namespace adventofcode_2023.Days.Day1
+namespace adventofcode_2023.Days
 {
     public class Day1
     {

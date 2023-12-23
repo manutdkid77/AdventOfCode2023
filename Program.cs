@@ -1,4 +1,4 @@
-﻿using adventofcode_2023.Days.Day3;
+﻿using adventofcode_2023.Days;
 
 namespace adventofcode_2023;
 

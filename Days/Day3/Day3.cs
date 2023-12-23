@@ -1,7 +1,7 @@
 using System.Text.RegularExpressions;
 using adventofcode_2023.Services;
 
-namespace adventofcode_2023.Days.Day3
+namespace adventofcode_2023.Days
 {
     //https://adventofcode.com/2023/day/3
     public class Day3
